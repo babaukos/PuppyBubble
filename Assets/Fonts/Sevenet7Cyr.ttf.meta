@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c37a0ed04ef59494498ff730cbd31511
+timeCreated: 1569051573
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sevenet7Cyr
+  fontNames:
+  - Sevenet7Cyr
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
